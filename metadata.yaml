@@ -1,0 +1,32 @@
+_repo: Manuscrit-de-1814-trouv--dans-les-voitures-imp-riales-prises---Waterloo-contenant-l-histoire-__33796
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33796-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fain, Agathon-Jean-François, baron
+    alias: Fain, Agathon-Jean-Francois, baron
+    birthdate: 1778
+    deathdate: 1837
+    gutenberg_agent_id: '36611'
+    url: http://www.gutenberg.org/2009/agents/36611
+    wikipedia: http://en.wikipedia.org/wiki/Agathon_Jean_Fran%C3%A7ois_Fain
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2010-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33796'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
+- !lcc 'DC'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- !lcsh 'Wars of Liberation, 1813-1814'
+title: Manuscrit de 1814, trouvé dans les voitures impériales prises à Waterloo, contenant
+  l'histoire des six derniers mois du règne de Napoléon
+url: http://www.gutenberg.org/ebooks/33796
